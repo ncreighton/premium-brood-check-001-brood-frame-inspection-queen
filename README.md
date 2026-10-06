@@ -1,0 +1,2 @@
+# premium-brood-check-001-brood-frame-inspection-queen
+Stop losing track of your queen's performance and brood patterns across inspections. Your honey bees are a living data set — this Notion hub turns every frame inspection into a queen-spotting intelligence database.  This template solves the chaos of scattered notes and missed signs of queen failure by centralizing every brood frame inspection into
